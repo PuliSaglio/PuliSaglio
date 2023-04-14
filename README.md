@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Ignacio.<br>Formado em Técnico de Informática<br>Cursando TI<br>Codando desde 2019<br>Aprendendo Data Science<br><br>Hobbies: resolver problemas🤯 e jogar🕹️
+Olá, meu nome é Ignacio.<br>👨‍🎓Formado em Técnico de Informática<br>👨‍🎓Cursando TI...<br>🪄Codando desde 2019<br>.📚Aprendendo Data Science<br><br>Hobbies: resolver problemas🤯 e jogar🕹️
 
 
 ## 🌐 Socials:
@@ -20,5 +20,3 @@ Olá, meu nome é Ignacio.<br>Formado em Técnico de Informática<br>Cursando TI
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PuliSaglio&icon=2&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
