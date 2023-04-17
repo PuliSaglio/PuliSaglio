@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Ignacio.<br>👨‍🎓Formado em Técnico de Informática<br>👨‍🎓Cursando TI...<br>🪄Codando desde 2019<br>.📚Aprendendo Data Science<br><br>Hobbies: resolver problemas🤯 e jogar🕹️
+Olá, meu nome é Ignacio.<br>👨‍🎓Técnico de Informática<br>👨‍🎓Cursando TI...<br>🪄Codando desde 2019<br>.📚Aprendendo Data Science<br><br>Hobbies: resolver problemas🤯 e jogar🕹️
 
 
 ## 🌐 Socials:
